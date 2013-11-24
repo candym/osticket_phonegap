@@ -10,3 +10,5 @@ git init
 
 touch README
 # Creates a file called "README" in your OSTicket_PhoneGap directory
+ 
+ 
